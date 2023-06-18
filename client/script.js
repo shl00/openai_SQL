@@ -168,7 +168,7 @@ form.addEventListener('keyup', (e)=>{
 
 const click = function(){
   if(pCount>= 6){
-    alert("_aa5qs");
+    alert("z3Y61^");
   }
   else{
     alert("Mindestens 6 prompts!");
